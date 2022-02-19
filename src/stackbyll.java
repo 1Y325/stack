@@ -79,7 +79,7 @@ class StackUsingLinkedlist {
     }
 }
 
- class Main {
+class ain {
     public static void main(String[] args)
     {
 
